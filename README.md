@@ -1,8 +1,7 @@
 # React + Vite
 
 
-https://64db14bc3f85572a5d0513f1--lambent-dodol-eaea66.netlify.app/ 
- 
+https://64db7bde1db2146259ab62a0--chimerical-cobbler-e42b30.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -14,7 +13,3 @@ Currently, two official plugins are available:
 
 
 https://api.escuelajs.co/api/v1/products
-
-image 
-price 
-title
