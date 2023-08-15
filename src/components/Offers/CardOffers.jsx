@@ -10,28 +10,28 @@ const CardOffers = () => {
     <ul className="flex">
       <li className="pt-5 py-5 flex flex-col items-center w-[179px] border h-[235px]">
         <img className="w-[121px] h-[121px] mb-[11px]" src={Smart} alt="" />
-        <p>Smart watches</p>
-        <span className="text-[#EB001B] bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-25%</span>
+        <p className="hover:underline hover:text-[#0D6EFD]">Smart watches</p>
+        <p className="text-[#EB001B] hover:shadow-red-600 active:shadow-red-600 bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-25%</p>
       </li>
       <li className="pt-5 py-5 flex flex-col items-center w-[179px] border h-[235px]">
         <img className="w-[121px] h-[121px] mb-[11px]" src={Laptops} alt="" />
-        <p>Laptops</p>
-        <span className="text-[#EB001B] bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-15%</span>
+        <p className="hover:underline hover:text-[#0D6EFD]">Laptops</p>
+        <p className="text-[#EB001B] hover:shadow-red-600 active:shadow-red-600 bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-15%</p>
       </li>
       <li className="pt-5 py-5 flex flex-col items-center w-[179px] border h-[235px]">
         <img className="w-[121px] h-[121px] mb-[11px]" src={Gopro} alt="" />
-        <p>GoPro cameras</p>
-        <span className="text-[#EB001B] bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-40%</span>
+        <p className="hover:underline hover:text-[#0D6EFD]">GoPro cameras</p>
+        <p className="text-[#EB001B] hover:shadow-red-600 active:shadow-red-600 bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-40%</p>
       </li>
       <li className="pt-5 py-5 flex flex-col items-center w-[179px] border h-[235px]">
         <img className="w-[121px] h-[121px] mb-[11px]" src={Headphones} alt="" />
-        <p>Headphones</p>
-        <span className="text-[#EB001B] bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-25%</span>
+        <p className="hover:underline hover:text-[#0D6EFD]">Headphones</p>
+        <p className="text-[#EB001B] hover:shadow-red-600 active:shadow-red-600 bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-25%</p>
       </li>
       <li className="pt-5 py-5 flex flex-col items-center w-[179px] border h-[235px]">
         <img className="w-[121px] h-[121px] mb-[11px]" src={Canon} alt="" />
-        <p>Canon camreras</p>
-        <span className="text-[#EB001B] bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-25%</span>
+        <p className="hover:underline hover:text-[#0D6EFD]">Canon camreras</p>
+        <p className="text-[#EB001B] hover:shadow-red-600 active:shadow-red-600 bg-[#FFE3E3] pt-[3px] px-[13px] rounded-2xl">-25%</p>
       </li>
     </ul>
   );

@@ -20,22 +20,22 @@ const index = () => {
                   </p>
                 </li>
                 <ul className="flex gap-[6px]">
-                  <li className="bg-[#606060] pt-[3px] text-white w-[45px] h-[50px] flex flex-col items-center rounded ">
-                    <p className="font-bold text-[16px]">04</p>
-                    <span className="text-[12px]">Days</span>
+                  <li className="bg-[#606060] hover:text-[#0D6EFD] hover:shadow-xl pt-[3px] text-white w-[45px] h-[50px] flex flex-col items-center rounded ">
+                    <p className="font-bold text-[16px] hover:text-[#0D6EFD]">04</p>
+                    <span className="text-[12px] ">Days</span>
                   </li>
-                  <li className="bg-[#606060] pt-[3px] text-white w-[45px] h-[50px] flex flex-col items-center rounded ">
-                    <p className="font-bold text-[16px]">13</p>
-                    <span className="text-[12px]"> Hour</span>
+                  <li className="bg-[#606060] hover:text-[#0D6EFD] hover:shadow-xl pt-[3px] text-white w-[45px] h-[50px] flex flex-col items-center rounded ">
+                    <p className="font-bold text-[16px] hover:text-[#0D6EFD]">13</p>
+                    <span className="text-[12px] "> Hour</span>
                   </li>
 
-                  <li className="bg-[#606060] pt-[3px] text-white w-[45px] h-[50px] flex flex-col items-center rounded ">
-                    <p className="font-bold text-[16px]">34</p>
-                    <span className="text-[12px]">Min</span>
+                  <li className="bg-[#606060] hover:text-[#0D6EFD] hover:shadow-xl pt-[3px] text-white w-[45px] h-[50px] flex flex-col items-center rounded ">
+                    <p className="font-bold text-[16px] hover:text-[#0D6EFD]">34</p>
+                    <span className="text-[12px] ">Min</span>
                   </li>
-                  <li className="bg-[#606060] pt-[3px] text-white w-[45px] h-[50px] flex flex-col items-center rounded ">
-                    <p className="font-bold text-[16px]">56</p>
-                    <span className="text-[12px]">Sec</span>
+                  <li className="bg-[#606060] hover:text-[#0D6EFD] hover:shadow-xl pt-[3px] text-white w-[45px] h-[50px] flex flex-col items-center rounded ">
+                    <p className="font-bold text-[16px] hover:text-[#0D6EFD]">56</p>
+                    <span className="text-[12px] ">Sec</span>
                   </li>
                 </ul>
               </ul>

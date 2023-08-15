@@ -9,13 +9,13 @@ const index = () => {
           <CarouselIntro />
           <div className="ml-[10px] flex flex-col justify-between">
             <div className="card w-[180px] h-[110px] bg-[#F38332] rounded-md p-4  hover:shadow-2xl text-white">
-              <p>Get US $10 off with a new supplier</p>
+              <p className="text-white">Get US $10 off with a new supplier</p>
             </div>
             <div className="card w-[180px] h-[110px] bg-[#55BDC3] rounded-md p-4 hover:shadow-2xl text-white">
-              <p>Get US $10 off with a new supplier</p>
+              <p className="text-white">Get US $10 off with a new supplier</p>
             </div>
             <div className="card w-[180px] h-[110px] bg-[#127FFF] rounded-md p-4 hover:shadow-2xl text-white">
-              <p>Get US $10 off with a new supplier</p>
+              <p className="text-white">Send quotes with supplier preferences</p>
             </div>
           </div>
         </div>

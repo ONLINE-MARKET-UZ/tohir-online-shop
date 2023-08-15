@@ -1,9 +1,14 @@
-
+import Subscribe from "./subscribe"
+import GetApp from "./getApp";
+import Last from "./last";
 import "./style.scss"
 const index = () => {
     return (
         <footer>
-           <h1>Footer</h1> 
+       
+           <Subscribe/>
+           <GetApp/>
+           <Last/>
         </footer>
     );
 };

@@ -1,7 +1,7 @@
 # React + Vite
 
 
- https://64daf75c3f85571d1f05142f--majestic-arithmetic-9ea4ff.netlify.app/
+https://64db14bc3f85572a5d0513f1--lambent-dodol-eaea66.netlify.app/ 
  
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -12,3 +12,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+
+https://api.escuelajs.co/api/v1/products
+
+image 
+price 
+title
